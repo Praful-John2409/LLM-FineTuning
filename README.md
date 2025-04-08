@@ -22,10 +22,10 @@ Fine-tuning of multiple open-weight LLMs for distinct tasks using varied chat mo
 
 | Task | Colab Link | Video Link |
 |------|-----------|------------|
-| Fine-tuning Llama 3.1 (8B) | [Colab](#) | [Video](#) |
-| Fine-tuning Mistral NeMo (12B) | [Colab](#) | [Video](#) |
-| Fine-tuning Gemma 2 (9B) | [Colab](#) | [Video](#) |
-| Fine-tuning Phi-3.5 (Mini) | [Colab](#) | [Video](#) |
+| Fine-tuning Llama 3.1 (8B) | [Colab](https://colab.research.google.com/drive/13OW6JTJRnFjmv8yHufXokOikNgRgq5bE?usp=sharing) | [Video](#) |
+| Fine-tuning Mistral NeMo (12B) | [Colab](https://colab.research.google.com/drive/1WAduAJOa5YQ7xdJhgoRU_qvPtGWTJvRS?usp=sharing) | [Video](#) |
+| Fine-tuning Gemma 2 (9B) | [Colab](https://colab.research.google.com/drive/1tUDxvQ9FrZeT9Gkr6rzqZSvS940AZOF4?usp=sharing) | [Video](#) |
+| Fine-tuning Phi-3.5 (Mini) | [Colab](https://colab.research.google.com/drive/1BlaeJmdg4xpkFE8CLfnPzvmlo2Jo_mfG?usp=sharing) | [Video](#) |
 
 ---
 
