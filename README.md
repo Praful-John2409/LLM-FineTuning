@@ -35,7 +35,7 @@ Using Unsloth AI to train LLMs on new languages.
 
 | Task | Colab Link | Video Link |
 |------|-----------|------------|
-| Continued Pretraining | [Colab](#) | [Video](#) |
+| Continued Pretraining | [Colab](https://drive.google.com/file/d/1NCvLKjTsfLOiTXfpSTMwrmdMF7l6-ZyK/view?usp=sharing) | [Video](#) |
 
 ---
 
@@ -45,10 +45,7 @@ Developed and experimented with various chat templates.
 
 | Task | Colab Link | Video Link |
 |------|-----------|------------|
-| Classification Chat Template | [Colab](#) | [Video](#) |
-| Conversational Chat Template | [Colab](#) | [Video](#) |
-| Extending Context Size for TinyLlama | [Colab](#) | [Video](#) |
-| Multi-Dataset Fine-Tuning | [Colab](#) | [Video](#) |
+| All Chat Templates | [Colab](https://drive.google.com/file/d/1g7zivoOIoXTpmTmRdLBivmSk6otRR1GN/view?usp=sharing) | [Video](#) |
 
 ---
 
@@ -58,8 +55,7 @@ Implemented reward modeling using ORPO and DPO techniques.
 
 | Task | Colab Link | Video Link |
 |------|-----------|------------|
-| ORPO Reward Modeling | [Colab](#) | [Video](#) |
-| DPO Reward Modeling | [Colab](#) | [Video](#) |
+| ORPO and DPO Reward Modeling | [Colab](https://drive.google.com/file/d/1XVOp6eYYd2Vxt7cyFLKxYrxgiZli09T_/view?usp=sharing) | [Video](#) |
 
 ---
 
@@ -67,7 +63,7 @@ Implemented reward modeling using ORPO and DPO techniques.
 
 | Task | Colab Link | Video Link |
 |------|-----------|------------|
-| Custom Checkpoint Fine-Tuning | [Colab](#) | [Video](#) |
+| Custom Checkpoint Fine-Tuning | [Colab](https://drive.google.com/file/d/1B0zU-QuydoPQyRbsWWDf8LApdfWOyUKF/view?usp=sharing) | [Video](#) |
 
 ---
 
@@ -77,7 +73,7 @@ Fine-tuning Unsloth for a mental health chatbot.
 
 | Task | Colab Link | Video Link |
 |------|-----------|------------|
-| Mental Health Chatbot Fine-Tuning | [Colab](#) | [Video](#) |
+| Mental Health Chatbot Fine-Tuning | [Colab](https://drive.google.com/file/d/1rJ3bzgu0uU0hFrfjMxW6oMdoRlhW2I-7/view?usp=sharing) | [Video](#) |
 
 ---
 
@@ -87,7 +83,7 @@ Fine-tuned a model and exported it to Ollama for inference.
 
 | Task | Colab Link | Video Link |
 |------|-----------|------------|
-| Export to Ollama | [Colab](#) | [Video](#) |
+| Export to Ollama | [Colab](https://drive.google.com/file/d/1lpEMHVz4TTScsdUSTV0PC7g2nxWgfEKa/view?usp=sharing) | [Video](#) |
 
 ---
 
