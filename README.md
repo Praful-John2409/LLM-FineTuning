@@ -1,4 +1,4 @@
-# LLM Fine-Tuning and Reward Modeling Assignment
+# LLM Fine-Tuning and Reward Modeling Using UnSloth AI
 
 This repository contains all the work completed for the assignment on fine-tuning various open-weight LLM modules, continued pretraining, chat template experiments, reward modeling, and additional fine-tuning tasks. Every experiment is accompanied by a video demonstration and a Colab notebook that has been successfully executed.
 
